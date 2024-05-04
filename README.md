@@ -6,5 +6,5 @@
 - ⚡ Windows内核安全，红队武器库研发
 - 🌱 深耕Windows安全领域
 - ✉️ qqmail: tonychen56@qq.com
-- 💬 qqgroup: **[548601183](https://qm.qq.com/q/sMlbUmeRdm)**
+- 💬 qqgroup: **[795681068](https://qm.qq.com/q/TXCiMFxgsO)**
 - 📝 blog: **[guishou.blog.csdn.net](https://blog.csdn.net/qq_38474570)**
