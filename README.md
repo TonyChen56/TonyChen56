@@ -8,4 +8,4 @@
 - ✉️ qqmail: tonychen56@qq.com
 - 💬 qqgroup: **[795681068](https://qm.qq.com/q/TXCiMFxgsO)**
 - 📝 blog: **[guishou.blog.csdn.net](https://blog.csdn.net/qq_38474570)**
-- 🌱 公众号：鬼手56的出海记录
+- 🌱 公众号:鬼手56的出海记录
