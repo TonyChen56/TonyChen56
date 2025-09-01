@@ -5,6 +5,7 @@
 - 🔭 二进制攻防、逆向、恶意代码分析  
 - ⚡ Windows内核安全，红队武器库研发
 - 🌱 深耕Windows安全领域
+- ⚡  目前全职做海外产品 Ai Saas
 - ✉️ qqmail: tonychen56@qq.com
 - 💬 qqgroup: **[795681068](https://qm.qq.com/q/TXCiMFxgsO)**
 - 📝 blog: **[guishou.blog.csdn.net](https://blog.csdn.net/qq_38474570)**
