@@ -7,6 +7,6 @@
 - 🌱 深耕Windows安全领域
 - ⚡  目前全职做海外产品 Ai Saas
 - ✉️ qqmail: tonychen56@qq.com
-- 💬 个人微信：WriterGCC
+- 💬 个人微信:WriterGCC
 - 📝 blog: **[guishou.blog.csdn.net](https://blog.csdn.net/qq_38474570)**
 - 🌱 公众号:**[鬼手56的出海记录](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzE5ODcyNDAwOA==&scene=124#wechat_redirect)**
